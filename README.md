@@ -1,2 +1,1 @@
-# learnAWS
-AWSの学習を行う
+# AWSの学習を行う
